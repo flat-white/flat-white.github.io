@@ -1,2 +1,2 @@
-# flatwhite.org
+# flatwhite.github.io
 Public site
